@@ -54,3 +54,6 @@ Wants:
 Wishes:
 Calendar
 Comments with Login
+
+http://stackoverflow.com/questions/27725187/google-places-api-how-do-i-fetch-the-reviews
+https://developers.google.com/places/web-service/details
